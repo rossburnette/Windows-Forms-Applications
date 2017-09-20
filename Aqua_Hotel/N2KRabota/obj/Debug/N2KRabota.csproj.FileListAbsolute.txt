@@ -1,0 +1,58 @@
+D:\Projects Visual Studio\N2KRabota\N2KRabota\bin\Debug\N2KRabota.exe
+D:\Projects Visual Studio\N2KRabota\N2KRabota\bin\Debug\N2KRabota.pdb
+D:\Projects Visual Studio\N2KRabota\N2KRabota\obj\Debug\ResolveAssemblyReference.cache
+D:\Projects Visual Studio\N2KRabota\N2KRabota\obj\Debug\N2KRabota.Form1.resources
+D:\Projects Visual Studio\N2KRabota\N2KRabota\obj\Debug\N2KRabota.Properties.Resources.resources
+D:\Projects Visual Studio\N2KRabota\N2KRabota\obj\Debug\N2KRabota.csproj.GenerateResource.Cache
+D:\Projects Visual Studio\N2KRabota\N2KRabota\obj\Debug\N2KRabota.exe
+D:\Projects Visual Studio\N2KRabota\N2KRabota\obj\Debug\N2KRabota.pdb
+D:\Projects Visual Studio\N2KRabota\N2KRabota\obj\Debug\N2KRabota.serchime.resources
+D:\Projects Visual Studio\N2KRabota\N2KRabota\obj\Debug\N2KRabota.serchegn.resources
+D:\Projects Visual Studio\N2KRabota\N2KRabota\obj\Debug\N2KRabota.serchstaq.resources
+C:\Users\zlekozlE\Desktop\N2KRabota\N2KRabota\obj\Debug\N2KRabota.exe
+C:\Users\zlekozlE\Desktop\N2KRabota\N2KRabota\obj\Debug\N2KRabota.pdb
+C:\Users\zlekozlE\Desktop\N2KRabota\N2KRabota\bin\Debug\N2KRabota.exe
+C:\Users\zlekozlE\Desktop\N2KRabota\N2KRabota\bin\Debug\N2KRabota.pdb
+C:\Users\zlekozlE\Desktop\N2KRabota\N2KRabota\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\zlekozlE\Desktop\N2KRabota\N2KRabota\obj\Debug\N2KRabota.Form1.resources
+C:\Users\zlekozlE\Desktop\N2KRabota\N2KRabota\obj\Debug\N2KRabota.Properties.Resources.resources
+C:\Users\zlekozlE\Desktop\N2KRabota\N2KRabota\obj\Debug\N2KRabota.serchegn.resources
+C:\Users\zlekozlE\Desktop\N2KRabota\N2KRabota\obj\Debug\N2KRabota.serchime.resources
+C:\Users\zlekozlE\Desktop\N2KRabota\N2KRabota\obj\Debug\N2KRabota.serchstaq.resources
+C:\Users\zlekozlE\Desktop\N2KRabota\N2KRabota\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\zlekozlE\Desktop\N2KRabota\N2KRabota\obj\Debug\GenerateResource-ResGen.write.1.tlog
+D:\Vins\Програмиране и структура от данни\Kursovi Raboti\Ferfax\N2KRabota\obj\Debug\N2KRabota.exe
+D:\Vins\Програмиране и структура от данни\Kursovi Raboti\Ferfax\N2KRabota\obj\Debug\N2KRabota.pdb
+C:\Users\ug_th\Desktop\Kursovi Raboti\Ferfax\N2KRabota\obj\Debug\N2KRabota.exe
+C:\Users\ug_th\Desktop\Kursovi Raboti\Ferfax\N2KRabota\obj\Debug\N2KRabota.pdb
+C:\Users\ug_th\Desktop\Kursovi Raboti\Ferfax\N2KRabota\bin\Debug\N2KRabota.exe
+C:\Users\ug_th\Desktop\Kursovi Raboti\Ferfax\N2KRabota\bin\Debug\N2KRabota.pdb
+C:\Users\ug_th\Desktop\Kursovi Raboti\Ferfax\N2KRabota\obj\Debug\N2KRabota.csprojResolveAssemblyReference.cache
+C:\Users\ug_th\Desktop\Kursovi Raboti\Ferfax\N2KRabota\obj\Debug\N2KRabota.Form1.resources
+C:\Users\ug_th\Desktop\Kursovi Raboti\Ferfax\N2KRabota\obj\Debug\N2KRabota.Properties.Resources.resources
+C:\Users\ug_th\Desktop\Kursovi Raboti\Ferfax\N2KRabota\obj\Debug\N2KRabota.serchegn.resources
+C:\Users\ug_th\Desktop\Kursovi Raboti\Ferfax\N2KRabota\obj\Debug\N2KRabota.serchime.resources
+C:\Users\ug_th\Desktop\Kursovi Raboti\Ferfax\N2KRabota\obj\Debug\N2KRabota.serchstaq.resources
+C:\Users\ug_th\Desktop\Kursovi Raboti\Ferfax\N2KRabota\obj\Debug\N2KRabota.csproj.GenerateResource.Cache
+D:\VINS\Kursovi Raboti\Ferfax\N2KRabota\obj\Debug\N2KRabota.exe
+D:\VINS\Kursovi Raboti\Ferfax\N2KRabota\obj\Debug\N2KRabota.pdb
+D:\VINS\Kursovi Raboti\Ferfax\N2KRabota\bin\Debug\N2KRabota.exe
+D:\VINS\Kursovi Raboti\Ferfax\N2KRabota\bin\Debug\N2KRabota.pdb
+D:\VINS\Kursovi Raboti\Ferfax\N2KRabota\obj\Debug\N2KRabota.csprojResolveAssemblyReference.cache
+D:\VINS\Kursovi Raboti\Ferfax\N2KRabota\obj\Debug\N2KRabota.Form1.resources
+D:\VINS\Kursovi Raboti\Ferfax\N2KRabota\obj\Debug\N2KRabota.Properties.Resources.resources
+D:\VINS\Kursovi Raboti\Ferfax\N2KRabota\obj\Debug\N2KRabota.serchegn.resources
+D:\VINS\Kursovi Raboti\Ferfax\N2KRabota\obj\Debug\N2KRabota.serchime.resources
+D:\VINS\Kursovi Raboti\Ferfax\N2KRabota\obj\Debug\N2KRabota.serchstaq.resources
+D:\VINS\Kursovi Raboti\Ferfax\N2KRabota\obj\Debug\N2KRabota.csproj.GenerateResource.Cache
+D:\USB Flash Drive\VINS\Kursovi Raboti\Ferfax\N2KRabota\obj\Debug\N2KRabota.exe
+D:\USB Flash Drive\VINS\Kursovi Raboti\Ferfax\N2KRabota\obj\Debug\N2KRabota.pdb
+D:\USB Flash Drive\VINS\Kursovi Raboti\Ferfax\N2KRabota\bin\Debug\N2KRabota.exe
+D:\USB Flash Drive\VINS\Kursovi Raboti\Ferfax\N2KRabota\bin\Debug\N2KRabota.pdb
+D:\USB Flash Drive\VINS\Kursovi Raboti\Ferfax\N2KRabota\obj\Debug\N2KRabota.csprojResolveAssemblyReference.cache
+D:\USB Flash Drive\VINS\Kursovi Raboti\Ferfax\N2KRabota\obj\Debug\N2KRabota.Form1.resources
+D:\USB Flash Drive\VINS\Kursovi Raboti\Ferfax\N2KRabota\obj\Debug\N2KRabota.Properties.Resources.resources
+D:\USB Flash Drive\VINS\Kursovi Raboti\Ferfax\N2KRabota\obj\Debug\N2KRabota.serchegn.resources
+D:\USB Flash Drive\VINS\Kursovi Raboti\Ferfax\N2KRabota\obj\Debug\N2KRabota.serchime.resources
+D:\USB Flash Drive\VINS\Kursovi Raboti\Ferfax\N2KRabota\obj\Debug\N2KRabota.serchstaq.resources
+D:\USB Flash Drive\VINS\Kursovi Raboti\Ferfax\N2KRabota\obj\Debug\N2KRabota.csproj.GenerateResource.Cache

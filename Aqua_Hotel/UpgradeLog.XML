@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="N2KRabota">
+</Property><Property Name="Solution File" Value="C:\Users\zlekozlE\Desktop\N2KRabota\N2KRabota.sln">
+</Property><Property Name="Date" Value="04 април 2011 г.">
+</Property><Property Name="Time" Value="20:36 ч.">
+</Property></Properties><Event ErrorLevel="0" Project="N2KRabota" Source="N2KRabota\N2KRabota.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="N2KRabota" Source="N2KRabota\N2KRabota.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="N2KRabota.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="N2KRabota.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="N2KRabota" Source="N2KRabota\N2KRabota.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>
