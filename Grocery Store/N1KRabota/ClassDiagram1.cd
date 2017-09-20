@@ -1,0 +1,79 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="N1KRabota.Form1" Collapsed="true">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>/zIAQAAACTDEADCDFaCAQKFGYM07hEAk0HTfQqHQwLI=</HashCode>
+      <FileName>Form1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="N1KRabota.Klienti" Collapsed="true">
+    <Position X="2.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABAAACAQAACAEAAAgAAAAAEAAAgAABAIAAAAAAAAAAA=</HashCode>
+      <FileName>Klienti.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="N1KRabota.prodajba" Collapsed="true">
+    <Position X="4" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAhgEAACAAAACAAAIAAAAEEAAAAAAAAA=</HashCode>
+      <FileName>prodajba.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="N1KRabota.Program" Collapsed="true">
+    <Position X="5.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="N1KRabota.spravkaklient" Collapsed="true">
+    <Position X="4" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAACACAAABAAAACAAAACACAIAAAAAEAAAAAAAAA=</HashCode>
+      <FileName>spravkaklient.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="N1KRabota.Stoki" Collapsed="true">
+    <Position X="5.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAABAAAQEAEAEBAEAIAABCAAAAAAAAAAAAAAIAgAASA=</HashCode>
+      <FileName>Stoki.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="N1KRabota.tyrsidostavchik" Collapsed="true">
+    <Position X="0.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAECAAABAAAACAAAACAAAIAAAAEMAAAAAAAAA=</HashCode>
+      <FileName>tyrsidostavchik.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="N1KRabota.tyrsiime" Collapsed="true">
+    <Position X="2.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAEEBAAAACAAAACAAAIAAAAEEAAAAAAAAA=</HashCode>
+      <FileName>tyrsiime.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="N1KRabota.tyrsiproizvoditel" Collapsed="true">
+    <Position X="4" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAABAAAICAAAACAIAIAAAAEEAAAAAAAAA=</HashCode>
+      <FileName>tyrsiproizvoditel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="N1KRabota.Properties.Resources" Collapsed="true">
+    <Position X="0.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAABEAAAAQAAAAAAAAAAAAAAAIA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="N1KRabota.Properties.Settings" Collapsed="true">
+    <Position X="2.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAIAAAAAABAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Tahoma" Size="8.25" />
+</ClassDiagram>

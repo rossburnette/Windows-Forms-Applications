@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="N1KRabota">
+</Property><Property Name="Solution File" Value="D:\Vins\Програмиране и структура от данни\Kursovi Raboti\Plamena\N1KRabota.sln">
+</Property><Property Name="User Options File" Value="D:\Vins\Програмиране и структура от данни\Kursovi Raboti\Plamena\N1KRabota.suo">
+</Property><Property Name="Date" Value="08 май 2011 г.">
+</Property><Property Name="Time" Value="14:37 ч.">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="N1KRabota.sln" Description="File successfully backed up as D:\Vins\Програмиране и структура от данни\Kursovi Raboti\Plamena\Backup\N1KRabota.sln">
+</Event><Event ErrorLevel="0" Project="" Source="N1KRabota.suo" Description="File successfully backed up as D:\Vins\Програмиране и структура от данни\Kursovi Raboti\Plamena\Backup\N1KRabota.suo">
+</Event><Event ErrorLevel="0" Project="N1KRabota" Source="N1KRabota\N1KRabota.csproj" Description="Project file successfully backed up as D:\Vins\Програмиране и структура от данни\Kursovi Raboti\Plamena\Backup\N1KRabota\N1KRabota.csproj">
+</Event><Event ErrorLevel="0" Project="N1KRabota" Source="N1KRabota\Form1.cs" Description="File successfully backed up as D:\Vins\Програмиране и структура от данни\Kursovi Raboti\Plamena\Backup\N1KRabota\Form1.cs">
+</Event><Event ErrorLevel="0" Project="N1KRabota" Source="N1KRabota\Form1.Designer.cs" Description="File successfully backed up as D:\Vins\Програмиране и структура от данни\Kursovi Raboti\Plamena\Backup\N1KRabota\Form1.Designer.cs">
+</Event><Event ErrorLevel="0" Project="N1KRabota" Source="N1KRabota\Klienti.cs" Description="File successfully backed up as D:\Vins\Програмиране и структура от данни\Kursovi Raboti\Plamena\Backup\N1KRabota\Klienti.cs">
+</Event><Event ErrorLevel="0" Project="N1KRabota" Source="N1KRabota\prodajba.cs" Description="File successfully backed up as D:\Vins\Програмиране и структура от данни\Kursovi Raboti\Plamena\Backup\N1KRabota\prodajba.cs">
+</Event><Event ErrorLevel="0" Project="N1KRabota" Source="N1KRabota\prodajba.Designer.cs" Description="File successfully backed up as D:\Vins\Програмиране и структура от данни\Kursovi Raboti\Plamena\Backup\N1KRabota\prodajba.Designer.cs">
+</Event><Event ErrorLevel="0" Project="N1KRabota" Source="N1KRabota\Program.cs" Description="File successfully backed up as D:\Vins\Програмиране и структура от данни\Kursovi Raboti\Plamena\Backup\N1KRabota\Program.cs">
+</Event><Event ErrorLevel="0" Project="N1KRabota" Source="N1KRabota\Properties\AssemblyInfo.cs" Description="File successfully backed up as D:\Vins\Програмиране и структура от данни\Kursovi Raboti\Plamena\Backup\N1KRabota\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="N1KRabota" Source="N1KRabota\Properties\Resources.Designer.cs" Description="File successfully backed up as D:\Vins\Програмиране и структура от данни\Kursovi Raboti\Plamena\Backup\N1KRabota\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="N1KRabota" Source="N1KRabota\Properties\Settings.Designer.cs" Description="File successfully backed up as D:\Vins\Програмиране и структура от данни\Kursovi Raboti\Plamena\Backup\N1KRabota\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="N1KRabota" Source="N1KRabota\spravkaklient.cs" Description="File successfully backed up as D:\Vins\Програмиране и структура от данни\Kursovi Raboti\Plamena\Backup\N1KRabota\spravkaklient.cs">
+</Event><Event ErrorLevel="0" Project="N1KRabota" Source="N1KRabota\spravkaklient.Designer.cs" Description="File successfully backed up as D:\Vins\Програмиране и структура от данни\Kursovi Raboti\Plamena\Backup\N1KRabota\spravkaklient.Designer.cs">
+</Event><Event ErrorLevel="0" Project="N1KRabota" Source="N1KRabota\Stoki.cs" Description="File successfully backed up as D:\Vins\Програмиране и структура от данни\Kursovi Raboti\Plamena\Backup\N1KRabota\Stoki.cs">
+</Event><Event ErrorLevel="0" Project="N1KRabota" Source="N1KRabota\tyrsidostavchik.cs" Description="File successfully backed up as D:\Vins\Програмиране и структура от данни\Kursovi Raboti\Plamena\Backup\N1KRabota\tyrsidostavchik.cs">
+</Event><Event ErrorLevel="0" Project="N1KRabota" Source="N1KRabota\tyrsidostavchik.Designer.cs" Description="File successfully backed up as D:\Vins\Програмиране и структура от данни\Kursovi Raboti\Plamena\Backup\N1KRabota\tyrsidostavchik.Designer.cs">
+</Event><Event ErrorLevel="0" Project="N1KRabota" Source="N1KRabota\tyrsiime.cs" Description="File successfully backed up as D:\Vins\Програмиране и структура от данни\Kursovi Raboti\Plamena\Backup\N1KRabota\tyrsiime.cs">
+</Event><Event ErrorLevel="0" Project="N1KRabota" Source="N1KRabota\tyrsiime.Designer.cs" Description="File successfully backed up as D:\Vins\Програмиране и структура от данни\Kursovi Raboti\Plamena\Backup\N1KRabota\tyrsiime.Designer.cs">
+</Event><Event ErrorLevel="0" Project="N1KRabota" Source="N1KRabota\tyrsiproizvoditel.cs" Description="File successfully backed up as D:\Vins\Програмиране и структура от данни\Kursovi Raboti\Plamena\Backup\N1KRabota\tyrsiproizvoditel.cs">
+</Event><Event ErrorLevel="0" Project="N1KRabota" Source="N1KRabota\tyrsiproizvoditel.Designer.cs" Description="File successfully backed up as D:\Vins\Програмиране и структура от данни\Kursovi Raboti\Plamena\Backup\N1KRabota\tyrsiproizvoditel.Designer.cs">
+</Event><Event ErrorLevel="0" Project="N1KRabota" Source="N1KRabota\ClassDiagram1.cd" Description="File successfully backed up as D:\Vins\Програмиране и структура от данни\Kursovi Raboti\Plamena\Backup\N1KRabota\ClassDiagram1.cd">
+</Event><Event ErrorLevel="0" Project="N1KRabota" Source="N1KRabota\Properties\DataSources\Klienti.datasource" Description="File successfully backed up as D:\Vins\Програмиране и структура от данни\Kursovi Raboti\Plamena\Backup\N1KRabota\Properties\DataSources\Klienti.datasource">
+</Event><Event ErrorLevel="0" Project="N1KRabota" Source="N1KRabota\Properties\DataSources\Stoki.datasource" Description="File successfully backed up as D:\Vins\Програмиране и структура от данни\Kursovi Raboti\Plamena\Backup\N1KRabota\Properties\DataSources\Stoki.datasource">
+</Event><Event ErrorLevel="0" Project="N1KRabota" Source="N1KRabota\Properties\Settings.settings" Description="File successfully backed up as D:\Vins\Програмиране и структура от данни\Kursovi Raboti\Plamena\Backup\N1KRabota\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="N1KRabota" Source="N1KRabota\Form1.resx" Description="File successfully backed up as D:\Vins\Програмиране и структура от данни\Kursovi Raboti\Plamena\Backup\N1KRabota\Form1.resx">
+</Event><Event ErrorLevel="0" Project="N1KRabota" Source="N1KRabota\prodajba.resx" Description="File successfully backed up as D:\Vins\Програмиране и структура от данни\Kursovi Raboti\Plamena\Backup\N1KRabota\prodajba.resx">
+</Event><Event ErrorLevel="0" Project="N1KRabota" Source="N1KRabota\Properties\Resources.resx" Description="File successfully backed up as D:\Vins\Програмиране и структура от данни\Kursovi Raboti\Plamena\Backup\N1KRabota\Properties\Resources.resx">
+</Event><Event ErrorLevel="0" Project="N1KRabota" Source="N1KRabota\spravkaklient.resx" Description="File successfully backed up as D:\Vins\Програмиране и структура от данни\Kursovi Raboti\Plamena\Backup\N1KRabota\spravkaklient.resx">
+</Event><Event ErrorLevel="0" Project="N1KRabota" Source="N1KRabota\tyrsidostavchik.resx" Description="File successfully backed up as D:\Vins\Програмиране и структура от данни\Kursovi Raboti\Plamena\Backup\N1KRabota\tyrsidostavchik.resx">
+</Event><Event ErrorLevel="0" Project="N1KRabota" Source="N1KRabota\tyrsiime.resx" Description="File successfully backed up as D:\Vins\Програмиране и структура от данни\Kursovi Raboti\Plamena\Backup\N1KRabota\tyrsiime.resx">
+</Event><Event ErrorLevel="0" Project="N1KRabota" Source="N1KRabota\tyrsiproizvoditel.resx" Description="File successfully backed up as D:\Vins\Програмиране и структура от данни\Kursovi Raboti\Plamena\Backup\N1KRabota\tyrsiproizvoditel.resx">
+</Event><Event ErrorLevel="0" Project="N1KRabota" Source="N1KRabota\N1KRabota.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="N1KRabota" Source="N1KRabota\N1KRabota.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="N1KRabota.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="N1KRabota.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="N1KRabota" Source="N1KRabota\N1KRabota.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

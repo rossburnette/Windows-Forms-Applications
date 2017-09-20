@@ -1,0 +1,68 @@
+D:\Projects Visual Studio\N1KRabota\N1KRabota\bin\Debug\N1KRabota.exe
+D:\Projects Visual Studio\N1KRabota\N1KRabota\bin\Debug\N1KRabota.pdb
+D:\Projects Visual Studio\N1KRabota\N1KRabota\obj\Debug\ResolveAssemblyReference.cache
+D:\Projects Visual Studio\N1KRabota\N1KRabota\obj\Debug\N1KRabota.Form1.resources
+D:\Projects Visual Studio\N1KRabota\N1KRabota\obj\Debug\N1KRabota.Properties.Resources.resources
+D:\Projects Visual Studio\N1KRabota\N1KRabota\obj\Debug\N1KRabota.csproj.GenerateResource.Cache
+D:\Projects Visual Studio\N1KRabota\N1KRabota\obj\Debug\N1KRabota.exe
+D:\Projects Visual Studio\N1KRabota\N1KRabota\obj\Debug\N1KRabota.pdb
+D:\Projects Visual Studio\N1KRabota\N1KRabota\obj\Debug\N1KRabota.tyrsiime.resources
+D:\Projects Visual Studio\N1KRabota\N1KRabota\obj\Debug\N1KRabota.tyrsiproizvoditel.resources
+D:\Projects Visual Studio\N1KRabota\N1KRabota\obj\Debug\N1KRabota.tyrsidostavchik.resources
+D:\Projects Visual Studio\N1KRabota\N1KRabota\obj\Debug\N1KRabota.spravkaklient.resources
+D:\Projects Visual Studio\N1KRabota\N1KRabota\obj\Debug\N1KRabota.prodajba.resources
+C:\Documents and Settings\Siemens\Desktop\kursovi\Programirane i struktori ot danni c# 2010  II semestyr 2ri kurs\N1KRabota\N1KRabota\obj\Debug\N1KRabota.exe
+C:\Documents and Settings\Siemens\Desktop\kursovi\Programirane i struktori ot danni c# 2010  II semestyr 2ri kurs\N1KRabota\N1KRabota\obj\Debug\N1KRabota.pdb
+C:\Documents and Settings\Siemens\Desktop\kursovi\Programirane i struktori ot danni c# 2010  II semestyr 2ri kurs\N1KRabota\N1KRabota\bin\Debug\N1KRabota.exe
+C:\Documents and Settings\Siemens\Desktop\kursovi\Programirane i struktori ot danni c# 2010  II semestyr 2ri kurs\N1KRabota\N1KRabota\bin\Debug\N1KRabota.pdb
+C:\Documents and Settings\Siemens\Desktop\kursovi\Programirane i struktori ot danni c# 2010  II semestyr 2ri kurs\N1KRabota\N1KRabota\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Siemens\Desktop\kursovi\Programirane i struktori ot danni c# 2010  II semestyr 2ri kurs\N1KRabota\N1KRabota\obj\Debug\N1KRabota.Form1.resources
+C:\Documents and Settings\Siemens\Desktop\kursovi\Programirane i struktori ot danni c# 2010  II semestyr 2ri kurs\N1KRabota\N1KRabota\obj\Debug\N1KRabota.prodajba.resources
+C:\Documents and Settings\Siemens\Desktop\kursovi\Programirane i struktori ot danni c# 2010  II semestyr 2ri kurs\N1KRabota\N1KRabota\obj\Debug\N1KRabota.Properties.Resources.resources
+C:\Documents and Settings\Siemens\Desktop\kursovi\Programirane i struktori ot danni c# 2010  II semestyr 2ri kurs\N1KRabota\N1KRabota\obj\Debug\N1KRabota.spravkaklient.resources
+C:\Documents and Settings\Siemens\Desktop\kursovi\Programirane i struktori ot danni c# 2010  II semestyr 2ri kurs\N1KRabota\N1KRabota\obj\Debug\N1KRabota.tyrsidostavchik.resources
+C:\Documents and Settings\Siemens\Desktop\kursovi\Programirane i struktori ot danni c# 2010  II semestyr 2ri kurs\N1KRabota\N1KRabota\obj\Debug\N1KRabota.tyrsiime.resources
+C:\Documents and Settings\Siemens\Desktop\kursovi\Programirane i struktori ot danni c# 2010  II semestyr 2ri kurs\N1KRabota\N1KRabota\obj\Debug\N1KRabota.tyrsiproizvoditel.resources
+C:\Documents and Settings\Siemens\Desktop\kursovi\Programirane i struktori ot danni c# 2010  II semestyr 2ri kurs\N1KRabota\N1KRabota\obj\Debug\N1KRabota.csproj.GenerateResource.Cache
+D:\Vins\Програмиране и структура от данни\Kursovi Raboti\Plamena\N1KRabota\obj\Debug\N1KRabota.exe
+D:\Vins\Програмиране и структура от данни\Kursovi Raboti\Plamena\N1KRabota\obj\Debug\N1KRabota.pdb
+D:\Vins\Програмиране и структура от данни\Kursovi Raboti\Plamena\N1KRabota\bin\Debug\N1KRabota.exe
+D:\Vins\Програмиране и структура от данни\Kursovi Raboti\Plamena\N1KRabota\bin\Debug\N1KRabota.pdb
+D:\Vins\Програмиране и структура от данни\Kursovi Raboti\Plamena\N1KRabota\obj\Debug\ResolveAssemblyReference.cache
+D:\Vins\Програмиране и структура от данни\Kursovi Raboti\Plamena\N1KRabota\obj\Debug\N1KRabota.Form1.resources
+D:\Vins\Програмиране и структура от данни\Kursovi Raboti\Plamena\N1KRabota\obj\Debug\N1KRabota.prodajba.resources
+D:\Vins\Програмиране и структура от данни\Kursovi Raboti\Plamena\N1KRabota\obj\Debug\N1KRabota.Properties.Resources.resources
+D:\Vins\Програмиране и структура от данни\Kursovi Raboti\Plamena\N1KRabota\obj\Debug\N1KRabota.spravkaklient.resources
+D:\Vins\Програмиране и структура от данни\Kursovi Raboti\Plamena\N1KRabota\obj\Debug\N1KRabota.tyrsidostavchik.resources
+D:\Vins\Програмиране и структура от данни\Kursovi Raboti\Plamena\N1KRabota\obj\Debug\N1KRabota.tyrsiime.resources
+D:\Vins\Програмиране и структура от данни\Kursovi Raboti\Plamena\N1KRabota\obj\Debug\N1KRabota.tyrsiproizvoditel.resources
+D:\Vins\Програмиране и структура от данни\Kursovi Raboti\Plamena\N1KRabota\obj\Debug\GenerateResource-ResGen.read.1.tlog
+D:\Vins\Програмиране и структура от данни\Kursovi Raboti\Plamena\N1KRabota\obj\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\ug_th\Desktop\Kursovi Raboti\Plamena\N1KRabota\obj\Debug\N1KRabota.exe
+C:\Users\ug_th\Desktop\Kursovi Raboti\Plamena\N1KRabota\obj\Debug\N1KRabota.pdb
+C:\Users\ug_th\Desktop\Kursovi Raboti\Plamena\N1KRabota\bin\Debug\N1KRabota.exe
+C:\Users\ug_th\Desktop\Kursovi Raboti\Plamena\N1KRabota\bin\Debug\N1KRabota.pdb
+C:\Users\ug_th\Desktop\Kursovi Raboti\Plamena\N1KRabota\obj\Debug\N1KRabota.csprojResolveAssemblyReference.cache
+C:\Users\ug_th\Desktop\Kursovi Raboti\Plamena\N1KRabota\obj\Debug\N1KRabota.Form1.resources
+C:\Users\ug_th\Desktop\Kursovi Raboti\Plamena\N1KRabota\obj\Debug\N1KRabota.prodajba.resources
+C:\Users\ug_th\Desktop\Kursovi Raboti\Plamena\N1KRabota\obj\Debug\N1KRabota.Properties.Resources.resources
+C:\Users\ug_th\Desktop\Kursovi Raboti\Plamena\N1KRabota\obj\Debug\N1KRabota.spravkaklient.resources
+C:\Users\ug_th\Desktop\Kursovi Raboti\Plamena\N1KRabota\obj\Debug\N1KRabota.tyrsidostavchik.resources
+C:\Users\ug_th\Desktop\Kursovi Raboti\Plamena\N1KRabota\obj\Debug\N1KRabota.tyrsiime.resources
+C:\Users\ug_th\Desktop\Kursovi Raboti\Plamena\N1KRabota\obj\Debug\N1KRabota.tyrsiproizvoditel.resources
+C:\Users\ug_th\Desktop\Kursovi Raboti\Plamena\N1KRabota\obj\Debug\N1KRabota.csproj.GenerateResource.Cache
+D:\VINS\Kursovi Raboti\Plamena\N1KRabota\obj\Debug\N1KRabota.exe
+D:\VINS\Kursovi Raboti\Plamena\N1KRabota\obj\Debug\N1KRabota.pdb
+D:\USB Flash Drive\VINS\Kursovi Raboti\Plamena\N1KRabota\bin\Debug\N1KRabota.exe
+D:\USB Flash Drive\VINS\Kursovi Raboti\Plamena\N1KRabota\bin\Debug\N1KRabota.pdb
+D:\USB Flash Drive\VINS\Kursovi Raboti\Plamena\N1KRabota\obj\Debug\N1KRabota.csprojResolveAssemblyReference.cache
+D:\USB Flash Drive\VINS\Kursovi Raboti\Plamena\N1KRabota\obj\Debug\N1KRabota.Form1.resources
+D:\USB Flash Drive\VINS\Kursovi Raboti\Plamena\N1KRabota\obj\Debug\N1KRabota.prodajba.resources
+D:\USB Flash Drive\VINS\Kursovi Raboti\Plamena\N1KRabota\obj\Debug\N1KRabota.Properties.Resources.resources
+D:\USB Flash Drive\VINS\Kursovi Raboti\Plamena\N1KRabota\obj\Debug\N1KRabota.spravkaklient.resources
+D:\USB Flash Drive\VINS\Kursovi Raboti\Plamena\N1KRabota\obj\Debug\N1KRabota.tyrsidostavchik.resources
+D:\USB Flash Drive\VINS\Kursovi Raboti\Plamena\N1KRabota\obj\Debug\N1KRabota.tyrsiime.resources
+D:\USB Flash Drive\VINS\Kursovi Raboti\Plamena\N1KRabota\obj\Debug\N1KRabota.tyrsiproizvoditel.resources
+D:\USB Flash Drive\VINS\Kursovi Raboti\Plamena\N1KRabota\obj\Debug\N1KRabota.csproj.GenerateResource.Cache
+D:\USB Flash Drive\VINS\Kursovi Raboti\Plamena\N1KRabota\obj\Debug\N1KRabota.exe
+D:\USB Flash Drive\VINS\Kursovi Raboti\Plamena\N1KRabota\obj\Debug\N1KRabota.pdb
