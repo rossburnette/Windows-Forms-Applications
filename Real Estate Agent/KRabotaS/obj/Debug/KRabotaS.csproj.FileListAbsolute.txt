@@ -1,0 +1,72 @@
+D:\Projects Visual Studio\KRabotaS\KRabotaS\bin\Debug\KRabotaS.exe
+D:\Projects Visual Studio\KRabotaS\KRabotaS\bin\Debug\KRabotaS.pdb
+D:\Projects Visual Studio\KRabotaS\KRabotaS\obj\Debug\ResolveAssemblyReference.cache
+D:\Projects Visual Studio\KRabotaS\KRabotaS\obj\Debug\KRabotaS.Form1.resources
+D:\Projects Visual Studio\KRabotaS\KRabotaS\obj\Debug\KRabotaS.Properties.Resources.resources
+D:\Projects Visual Studio\KRabotaS\KRabotaS\obj\Debug\KRabotaS.csproj.GenerateResource.Cache
+D:\Projects Visual Studio\KRabotaS\KRabotaS\obj\Debug\KRabotaS.exe
+D:\Projects Visual Studio\KRabotaS\KRabotaS\obj\Debug\KRabotaS.pdb
+D:\Projects Visual Studio\KRabotaS\KRabotaS\obj\Debug\KRabotaS.AddImot.resources
+D:\Projects Visual Studio\KRabotaS\KRabotaS\obj\Debug\KRabotaS.DelImot.resources
+D:\Projects Visual Studio\KRabotaS\KRabotaS\obj\Debug\KRabotaS.EditImot.resources
+D:\Projects Visual Studio\KRabotaS\KRabotaS\obj\Debug\KRabotaS.AddBroker.resources
+D:\Projects Visual Studio\KRabotaS\KRabotaS\obj\Debug\KRabotaS.DelBroker.resources
+D:\Projects Visual Studio\KRabotaS\KRabotaS\obj\Debug\KRabotaS.EditBroker.resources
+D:\Projects Visual Studio\KRabotaS\KRabotaS\obj\Debug\KRabotaS.simotkod.resources
+D:\Projects Visual Studio\KRabotaS\KRabotaS\obj\Debug\KRabotaS.simotcena.resources
+D:\Projects Visual Studio\KRabotaS\KRabotaS\obj\Debug\KRabotaS.simotrazmer.resources
+D:\Projects Visual Studio\KRabotaS\KRabotaS\obj\Debug\KRabotaS.sbroker.resources
+C:\Users\ug_th\Desktop\Kursovi Raboti\KRabotaS\KRabotaS\obj\Debug\KRabotaS.exe
+C:\Users\ug_th\Desktop\Kursovi Raboti\KRabotaS\KRabotaS\obj\Debug\KRabotaS.pdb
+C:\Users\ug_th\Desktop\Kursovi Raboti\KRabotaS\KRabotaS\bin\Debug\KRabotaS.exe
+C:\Users\ug_th\Desktop\Kursovi Raboti\KRabotaS\KRabotaS\bin\Debug\KRabotaS.pdb
+C:\Users\ug_th\Desktop\Kursovi Raboti\KRabotaS\KRabotaS\obj\Debug\KRabotaS.csprojResolveAssemblyReference.cache
+C:\Users\ug_th\Desktop\Kursovi Raboti\KRabotaS\KRabotaS\obj\Debug\KRabotaS.AddBroker.resources
+C:\Users\ug_th\Desktop\Kursovi Raboti\KRabotaS\KRabotaS\obj\Debug\KRabotaS.AddImot.resources
+C:\Users\ug_th\Desktop\Kursovi Raboti\KRabotaS\KRabotaS\obj\Debug\KRabotaS.DelBroker.resources
+C:\Users\ug_th\Desktop\Kursovi Raboti\KRabotaS\KRabotaS\obj\Debug\KRabotaS.DelImot.resources
+C:\Users\ug_th\Desktop\Kursovi Raboti\KRabotaS\KRabotaS\obj\Debug\KRabotaS.EditBroker.resources
+C:\Users\ug_th\Desktop\Kursovi Raboti\KRabotaS\KRabotaS\obj\Debug\KRabotaS.EditImot.resources
+C:\Users\ug_th\Desktop\Kursovi Raboti\KRabotaS\KRabotaS\obj\Debug\KRabotaS.Form1.resources
+C:\Users\ug_th\Desktop\Kursovi Raboti\KRabotaS\KRabotaS\obj\Debug\KRabotaS.Properties.Resources.resources
+C:\Users\ug_th\Desktop\Kursovi Raboti\KRabotaS\KRabotaS\obj\Debug\KRabotaS.sbroker.resources
+C:\Users\ug_th\Desktop\Kursovi Raboti\KRabotaS\KRabotaS\obj\Debug\KRabotaS.simotcena.resources
+C:\Users\ug_th\Desktop\Kursovi Raboti\KRabotaS\KRabotaS\obj\Debug\KRabotaS.simotkod.resources
+C:\Users\ug_th\Desktop\Kursovi Raboti\KRabotaS\KRabotaS\obj\Debug\KRabotaS.simotrazmer.resources
+C:\Users\ug_th\Desktop\Kursovi Raboti\KRabotaS\KRabotaS\obj\Debug\KRabotaS.csproj.GenerateResource.Cache
+D:\VINS\Kursovi Raboti\KRabotaS\KRabotaS\obj\Debug\KRabotaS.exe
+D:\VINS\Kursovi Raboti\KRabotaS\KRabotaS\obj\Debug\KRabotaS.pdb
+D:\VINS\Kursovi Raboti\KRabotaS\KRabotaS\bin\Debug\KRabotaS.exe
+D:\VINS\Kursovi Raboti\KRabotaS\KRabotaS\bin\Debug\KRabotaS.pdb
+D:\VINS\Kursovi Raboti\KRabotaS\KRabotaS\obj\Debug\KRabotaS.csprojResolveAssemblyReference.cache
+D:\VINS\Kursovi Raboti\KRabotaS\KRabotaS\obj\Debug\KRabotaS.AddBroker.resources
+D:\VINS\Kursovi Raboti\KRabotaS\KRabotaS\obj\Debug\KRabotaS.AddImot.resources
+D:\VINS\Kursovi Raboti\KRabotaS\KRabotaS\obj\Debug\KRabotaS.DelBroker.resources
+D:\VINS\Kursovi Raboti\KRabotaS\KRabotaS\obj\Debug\KRabotaS.DelImot.resources
+D:\VINS\Kursovi Raboti\KRabotaS\KRabotaS\obj\Debug\KRabotaS.EditBroker.resources
+D:\VINS\Kursovi Raboti\KRabotaS\KRabotaS\obj\Debug\KRabotaS.EditImot.resources
+D:\VINS\Kursovi Raboti\KRabotaS\KRabotaS\obj\Debug\KRabotaS.Form1.resources
+D:\VINS\Kursovi Raboti\KRabotaS\KRabotaS\obj\Debug\KRabotaS.Properties.Resources.resources
+D:\VINS\Kursovi Raboti\KRabotaS\KRabotaS\obj\Debug\KRabotaS.sbroker.resources
+D:\VINS\Kursovi Raboti\KRabotaS\KRabotaS\obj\Debug\KRabotaS.simotcena.resources
+D:\VINS\Kursovi Raboti\KRabotaS\KRabotaS\obj\Debug\KRabotaS.simotkod.resources
+D:\VINS\Kursovi Raboti\KRabotaS\KRabotaS\obj\Debug\KRabotaS.simotrazmer.resources
+D:\VINS\Kursovi Raboti\KRabotaS\KRabotaS\obj\Debug\KRabotaS.csproj.GenerateResource.Cache
+D:\USB Flash Drive\VINS\Kursovi Raboti\KRabotaS\KRabotaS\obj\Debug\KRabotaS.exe
+D:\USB Flash Drive\VINS\Kursovi Raboti\KRabotaS\KRabotaS\obj\Debug\KRabotaS.pdb
+D:\USB Flash Drive\VINS\Kursovi Raboti\KRabotaS\KRabotaS\bin\Debug\KRabotaS.exe
+D:\USB Flash Drive\VINS\Kursovi Raboti\KRabotaS\KRabotaS\bin\Debug\KRabotaS.pdb
+D:\USB Flash Drive\VINS\Kursovi Raboti\KRabotaS\KRabotaS\obj\Debug\KRabotaS.csprojResolveAssemblyReference.cache
+D:\USB Flash Drive\VINS\Kursovi Raboti\KRabotaS\KRabotaS\obj\Debug\KRabotaS.AddBroker.resources
+D:\USB Flash Drive\VINS\Kursovi Raboti\KRabotaS\KRabotaS\obj\Debug\KRabotaS.AddImot.resources
+D:\USB Flash Drive\VINS\Kursovi Raboti\KRabotaS\KRabotaS\obj\Debug\KRabotaS.DelBroker.resources
+D:\USB Flash Drive\VINS\Kursovi Raboti\KRabotaS\KRabotaS\obj\Debug\KRabotaS.DelImot.resources
+D:\USB Flash Drive\VINS\Kursovi Raboti\KRabotaS\KRabotaS\obj\Debug\KRabotaS.EditBroker.resources
+D:\USB Flash Drive\VINS\Kursovi Raboti\KRabotaS\KRabotaS\obj\Debug\KRabotaS.EditImot.resources
+D:\USB Flash Drive\VINS\Kursovi Raboti\KRabotaS\KRabotaS\obj\Debug\KRabotaS.Form1.resources
+D:\USB Flash Drive\VINS\Kursovi Raboti\KRabotaS\KRabotaS\obj\Debug\KRabotaS.Properties.Resources.resources
+D:\USB Flash Drive\VINS\Kursovi Raboti\KRabotaS\KRabotaS\obj\Debug\KRabotaS.sbroker.resources
+D:\USB Flash Drive\VINS\Kursovi Raboti\KRabotaS\KRabotaS\obj\Debug\KRabotaS.simotcena.resources
+D:\USB Flash Drive\VINS\Kursovi Raboti\KRabotaS\KRabotaS\obj\Debug\KRabotaS.simotkod.resources
+D:\USB Flash Drive\VINS\Kursovi Raboti\KRabotaS\KRabotaS\obj\Debug\KRabotaS.simotrazmer.resources
+D:\USB Flash Drive\VINS\Kursovi Raboti\KRabotaS\KRabotaS\obj\Debug\KRabotaS.csproj.GenerateResource.Cache
